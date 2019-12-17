@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="346.24707mm"
+   height="263.31601mm"
+   viewBox="0 0 346.24707 263.31601"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (unknown)"
+   sodipodi:docname="ORMAT_techs_overview.svg"
+   inkscape:export-filename="/home/chet/figures/NZ/overview_figs/ORMAT_techs_overview.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <defs
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath834-3">
+      <rect
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="rect836-6"
+         width="59.066566"
+         height="25.390606"
+         x="-60.033123"
+         y="397.48077"
+         ry="0.99219012" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath862-5">
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -18.24371,308.09842 183.31845,0.37795 -0.18899,100.91965 -20.03274,0.189 h -2.26785 l -0.18899,31.18302 -143.2529749,-1.51191 0.18898791,-41.01042 -20.59970201,0.189 z"
+         id="path864-3"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath892-6">
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -1.4237691,253.10286 0.5669642,-79.94196 40.4434519,-0.37797 1.889881,-55.37352 122.464282,0.75596 0.18899,103.56547 -21.16667,-0.18899 v 29.10417 z"
+         id="path894-2"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath922-1">
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -49.804721,-56.270643 28.348213,-0.377976 v -31.938989 l 202.784228,1.322919 -2.26786,150.623511 -231.132438,-0.944941 z"
+         id="path924-2"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1038">
+      <rect
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.17521085;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="rect1040"
+         width="164.77742"
+         height="133.27322"
+         x="-1.3313315"
+         y="117.4616"
+         ry="0.6570425" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1049">
+      <rect
+         ry="0.63525939"
+         y="308.09842"
+         x="-18.243719"
+         height="124.58806"
+         width="179.5735"
+         id="rect1051"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.16940205;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1055">
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.16940205px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M -18.243722,308.09842 H 161.32979 v 124.58804 l -161.36796402,2e-5 0.17111302,-35.42224 -21.561357,0.17112 z"
+         id="path1057"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath834-3-5">
+      <rect
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="rect836-6-9"
+         width="59.066566"
+         height="25.390606"
+         x="-60.033123"
+         y="397.48077"
+         ry="0.99219012" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1082">
+      <rect
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.116217;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="rect1084"
+         width="56.820103"
+         height="14.439819"
+         x="-59.262077"
+         y="406.16815"
+         ry="0.43581495" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="1729.0498"
+     inkscape:cy="518.82524"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="3840"
+     inkscape:window-height="2112"
+     inkscape:window-x="3840"
+     inkscape:window-y="48"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="-95.682488,372.30644"
+       orientation="0,1"
+       id="guide997"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="79.941961,118.11756"
+       orientation="0,1"
+       id="guide999"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-100.76061,174.25973"
+       orientation="0,1"
+       id="guide1001"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="765.19263,74.033657"
+       orientation="0,1"
+       id="guide1003"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-59.066564,186.90922"
+       orientation="1,0"
+       id="guide1005"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="578.37124,182.01054"
+       orientation="1,0"
+       id="guide1028"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="827.19916,143.25646"
+       orientation="1,0"
+       id="guide1030"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="694.36621,264.06229"
+       orientation="0,1"
+       id="guide1032"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="413.46594,-26.994222"
+       orientation="0,1"
+       id="guide1034"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="276.08941,284.64204"
+       orientation="1,0"
+       id="guide1110"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-17.47504,-10.953526)">
+    <image
+       sodipodi:absref="/home/chet/figures/NZ/overview_figs/ORMAT_schematic_combined_cycle.png"
+       xlink:href="ORMAT_schematic_combined_cycle.png"
+       clip-path="none"
+       y="284.14426"
+       x="-61.437305"
+       id="image909"
+       preserveAspectRatio="none"
+       height="171.10938"
+       width="250" />
+    <image
+       sodipodi:absref="/home/chet/figures/NZ/overview_figs/ORMAT_schematic_flash.png"
+       xlink:href="ORMAT_schematic_flash.png"
+       clip-path="none"
+       y="-105.05602"
+       x="-61.704575"
+       id="image920"
+       preserveAspectRatio="none"
+       height="192.41632"
+       width="250" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path924"
+       d="m -49.804721,-56.270643 28.348213,-0.377976 v -31.938989 l 202.784228,1.322919 -2.26786,150.623511 -231.132438,-0.944941 z"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <image
+       sodipodi:absref="/home/chet/figures/NZ/overview_figs/ORMAT_schematic_binary.png"
+       xlink:href="ORMAT_schematic_binary.png"
+       clip-path="none"
+       y="92.071892"
+       x="-61.704575"
+       id="image931"
+       preserveAspectRatio="none"
+       height="182.19766"
+       width="250" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot953"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:16.66666603px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,43.221536,-93.03836)"><flowRegion
+         id="flowRegion955"><rect
+           id="rect957"
+           width="42.142853"
+           height="46.428574"
+           x="-318.57144"
+           y="-1.2184285" /></flowRegion><flowPara
+         id="flowPara959"
+         style="font-weight:normal;font-size:42.66666794px">A</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot953-3"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:16.66666603px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,35.516327,114.33272)"><flowRegion
+         id="flowRegion955-6"><rect
+           id="rect957-7"
+           width="42.142853"
+           height="46.428574"
+           x="-318.57144"
+           y="-1.2184285" /></flowRegion><flowPara
+         id="flowPara959-5"
+         style="font-weight:normal;font-size:42.66666794px">B</flowPara></flowRoot>    <image
+       sodipodi:absref="/home/chet/figures/NZ/overview_figs/ORMAT_schematic_combined_cycle.png"
+       xlink:href="ORMAT_schematic_combined_cycle.png"
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       transform="matrix(2.2766317,0,0,2.2766317,488.61804,-603.65357)"
+       width="250"
+       height="171.10938"
+       preserveAspectRatio="none"
+       id="image909-7"
+       x="-61.437305"
+       y="284.14426"
+       clip-path="url(#clipPath834-3)" />
+    <image
+       sodipodi:absref="/home/chet/figures/NZ/overview_figs/ORMAT_schematic_combined_cycle.png"
+       xlink:href="ORMAT_schematic_combined_cycle.png"
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       transform="matrix(1.5618661,0,0,1.5618661,309.92753,-374.53459)"
+       width="250"
+       height="171.10938"
+       preserveAspectRatio="none"
+       id="image909-5"
+       x="-61.437305"
+       y="284.14426"
+       clip-path="url(#clipPath1055)" />
+    <image
+       sodipodi:absref="/home/chet/figures/NZ/overview_figs/ORMAT_schematic_binary.png"
+       xlink:href="ORMAT_schematic_binary.png"
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       transform="matrix(1.5100852,0,0,1.5100852,597.85675,-178.3951)"
+       width="250"
+       height="182.19766"
+       preserveAspectRatio="none"
+       id="image931-9"
+       x="-61.704575"
+       y="92.071892"
+       clip-path="url(#clipPath1038)" />
+    <image
+       sodipodi:absref="/home/chet/figures/NZ/overview_figs/ORMAT_schematic_flash.png"
+       xlink:href="ORMAT_schematic_flash.png"
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       transform="matrix(1.0711212,0,0,1.0711212,349.95717,28.377776)"
+       width="250"
+       height="192.41632"
+       preserveAspectRatio="none"
+       id="image920-7"
+       x="-61.704575"
+       y="-105.05602"
+       clip-path="url(#clipPath922-1)" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot953-35"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:16.66666603px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,377.65217,-60.461776)"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><flowRegion
+         id="flowRegion955-62"><rect
+           id="rect957-9"
+           width="51.234226"
+           height="57.540249"
+           x="-318.57144"
+           y="-1.2184285" /></flowRegion><flowPara
+         id="flowPara959-1"
+         style="font-weight:bold;font-size:42.66666794px">a)</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot948"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:16.66666603px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0,-0.26458333,0.26458333,0,390.75206,543.31727)"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><flowRegion
+         id="flowRegion950"><rect
+           id="rect952"
+           width="148.49245"
+           height="60.609154"
+           x="1216.2236"
+           y="-411.93237" /></flowRegion><flowPara
+         id="flowPara954"
+         style="font-weight:bold;font-size:42.66666794px">RGEN</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot948-0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:16.66666603px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0,-0.26458333,0.26458333,0,385.20015,350.17703)"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><flowRegion
+         id="flowRegion950-9"><rect
+           id="rect952-3"
+           width="148.49245"
+           height="60.609154"
+           x="1216.2236"
+           y="-411.93237" /></flowRegion><flowPara
+         id="flowPara954-6"
+         style="font-weight:bold;font-size:42.66666794px">NAP</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot948-06"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:16.66666603px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,65.911745,19.547015)"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><flowRegion
+         id="flowRegion950-2"><rect
+           id="rect952-6"
+           width="259.60922"
+           height="46.467026"
+           x="1216.2236"
+           y="-411.93237" /></flowRegion><flowPara
+         id="flowPara954-1"
+         style="font-weight:bold;font-size:42.66666794px">Rotokawa</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot948-06-8"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:16.66666603px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,359.19397,105.43975)"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><flowRegion
+         id="flowRegion950-2-7"><rect
+           id="rect952-6-9"
+           width="311.12704"
+           height="58.588871"
+           x="1216.2236"
+           y="-411.93237" /></flowRegion><flowPara
+         id="flowPara954-1-2"
+         style="font-weight:bold;font-size:42.66666794px">Ngatamariki</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot948-06-0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:16.66666603px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,256.74219,214.48572)"><flowRegion
+         id="flowRegion950-2-2"><rect
+           id="rect952-6-3"
+           width="259.60922"
+           height="46.467026"
+           x="1216.2236"
+           y="-411.93237" /></flowRegion><flowPara
+         id="flowPara954-1-7"
+         style="font-weight:bold;font-size:42.66666794px" /></flowRoot>    <image
+       sodipodi:absref="/home/chet/figures/NZ/overview_figs/ORMAT_schematic_combined_cycle.png"
+       xlink:href="ORMAT_schematic_combined_cycle.png"
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       clip-path="url(#clipPath1082)"
+       y="284.14426"
+       x="-61.437305"
+       id="image909-7-2"
+       preserveAspectRatio="none"
+       height="171.10938"
+       width="250"
+       transform="matrix(2.2766317,0,0,2.2766317,790.499,-724.45941)" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot953-35-2"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:16.66666603px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,377.10839,116.94404)"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><flowRegion
+         id="flowRegion955-62-8"><rect
+           id="rect957-9-9"
+           width="58.305302"
+           height="68.651924"
+           x="-318.57144"
+           y="-1.2184285" /></flowRegion><flowPara
+         id="flowPara959-1-7"
+         style="font-weight:bold;font-size:42.66666794px">b)</flowPara></flowRoot>  </g>
+</svg>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="389.87766mm"
+   height="234.23276mm"
+   viewBox="0 0 389.87766 234.23276"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (unknown)"
+   sodipodi:docname="Chambefort_model.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="745.02661"
+     inkscape:cy="631.30802"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="3840"
+     inkscape:window-height="2112"
+     inkscape:window-x="3840"
+     inkscape:window-y="48"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(112.40067,-15.227293)">
+    <image
+       sodipodi:absref="/home/chet/figures/NZ/overview_figs/Chamberfort_2015_fig9_model.png"
+       xlink:href="Chamberfort_2015_fig9_model.png"
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       width="389.59897"
+       height="228.46771"
+       preserveAspectRatio="none"
+       id="image909"
+       x="-112.40067"
+       y="20.992336" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#3966b9;stroke-width:0.86500001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 119.66917,39.792487 -0.18899,34.868305 -0.28348,12.567706 c -0.20256,3.479674 -1.86779,11.503884 -1.7954,12.662203 l -1.98437,8.693449 -3.68526,10.67783 c -1.73259,5.14799 -2.66023,8.20193 -6.23661,17.10342 -2.45481,5.8211 -2.39394,4.42609 -8.315481,17.29241 -3.51305,8.89858 -5.45636,14.6792 -6.42559,20.31622 -0.65538,3.95604 -0.84948,7.71749 -1.03944,11.90624 l -0.18898,5.10268"
+       id="path1591"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccc"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1593"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:16.66666603px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#3966b9;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,7.9772008,39.503796)"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><flowRegion
+         id="flowRegion1595"
+         style="fill:#3966b9;fill-opacity:1"><rect
+           id="rect1597"
+           width="98.571434"
+           height="43.571423"
+           x="368.57144"
+           y="-23.194601"
+           style="fill:#3966b9;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara1599"
+         style="font-weight:normal;font-size:24px;fill:#3966b9;fill-opacity:1">P-NM12</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1629"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:16.66666603px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,3.0238095,10.187118)"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><flowRegion
+         id="flowRegion1631"><rect
+           id="rect1633"
+           width="57.857143"
+           height="62.857143"
+           x="-351.42856"
+           y="28.233969" /></flowRegion><flowPara
+         id="flowPara1635"
+         style="font-weight:bold;font-size:37.33333206px">A</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1629-3"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:16.66666603px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,360.73548,10.187118)"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><flowRegion
+         id="flowRegion1631-6"><rect
+           id="rect1633-7"
+           width="57.857143"
+           height="62.857143"
+           x="-351.42856"
+           y="28.233969" /></flowRegion><flowPara
+         id="flowPara1635-5"
+         style="font-weight:bold;font-size:37.33333206px">A'</flowPara></flowRoot>  </g>
+</svg>

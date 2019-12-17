@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (unknown)"
+   sodipodi:docname="NM08_II_stimulation_Cleawater.svg">
+  <defs
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath901-3">
+      <rect
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="rect903-6"
+         width="182.81233"
+         height="187.35594"
+         x="32.072342"
+         y="43.093948" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="422.15033"
+     inkscape:cy="-247.1329"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="3710"
+     inkscape:window-height="2112"
+     inkscape:window-x="130"
+     inkscape:window-y="48"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <image
+       sodipodi:absref="/home/chet/figures/NZ/overview_figs/NM08_JC_ported_II_fitted.png"
+       xlink:href="NM08_JC_ported_II_fitted.png"
+       clip-path="none"
+       width="203.2"
+       height="203.2"
+       preserveAspectRatio="none"
+       id="image896"
+       x="1.0205419"
+       y="26.82262" />
+    <image
+       sodipodi:absref="/home/chet/figures/NZ/overview_figs/NM08_JC_ported_II_fitted.png"
+       xlink:href="NM08_JC_ported_II_fitted.png"
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       transform="translate(-19.377027,204.72846)"
+       y="42.69762"
+       x="14.06072"
+       id="image896-7"
+       preserveAspectRatio="none"
+       height="203.2"
+       width="203.2"
+       clip-path="url(#clipPath901-3)" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot927"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:16.66666603px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,93.171131,-12.391896)"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><flowRegion
+         id="flowRegion929"><rect
+           id="rect931"
+           width="265.71429"
+           height="69.285713"
+           x="-225"
+           y="1709.6626" /></flowRegion><flowPara
+         id="flowPara933"
+         style="font-weight:bold;font-size:21.33333397px">4 x 10<flowSpan
+   style="font-size:65%;baseline-shift:super"
+   id="flowSpan1088">5</flowSpan></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot927-5"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:16.66666603px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,138.49481,-12.391896)"
+       inkscape:transform-center-x="4.5357142"
+       inkscape:transform-center-y="-0.1889881"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><flowRegion
+         id="flowRegion929-3"><rect
+           id="rect931-5"
+           width="265.71429"
+           height="69.285713"
+           x="-225"
+           y="1709.6626" /></flowRegion><flowPara
+         id="flowPara933-6"
+         style="font-weight:bold;font-size:21.33333397px">6 x 10<flowSpan
+   style="font-size:65%;baseline-shift:super"
+   id="flowSpan1086">5</flowSpan></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot964"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:16.66666603px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,5.6696429,1.2494759)"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><flowRegion
+         id="flowRegion966"><rect
+           id="rect968"
+           width="54.285713"
+           height="39.285713"
+           x="515"
+           y="1658.234" /></flowRegion><flowPara
+         id="flowPara970"
+         style="font-weight:bold;font-size:21.33333397px">10<flowSpan
+   style="font-size:65%;baseline-shift:super"
+   id="flowSpan1084">6</flowSpan></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot964-9"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:16.66666603px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,-135.54508,-46.981479)"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><flowRegion
+         id="flowRegion966-1"><rect
+           id="rect968-2"
+           width="54.285713"
+           height="39.285713"
+           x="515"
+           y="1658.234" /></flowRegion><flowPara
+         id="flowPara970-7"
+         style="font-weight:bold;font-size:21.33333397px">10<flowSpan
+   style="font-size:64.99999762%;baseline-shift:super"
+   id="flowSpan1015">1</flowSpan></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot964-93"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:16.66666603px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,-135.51194,-182.48595)"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><flowRegion
+         id="flowRegion966-6"><rect
+           id="rect968-0"
+           width="54.285713"
+           height="39.285713"
+           x="515"
+           y="1658.234" /></flowRegion><flowPara
+         id="flowPara970-6"
+         style="font-weight:bold;font-size:21.33333397px">10<flowSpan
+   style="font-size:64.99999762%;baseline-shift:super"
+   id="flowSpan1017">2</flowSpan></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1019"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:16.66666603px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,6.7530738,3.2127976)"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><flowRegion
+         id="flowRegion1021"><rect
+           id="rect1023"
+           width="235.71428"
+           height="45.714287"
+           x="298.57144"
+           y="1695.3768" /></flowRegion><flowPara
+         id="flowPara1025"
+         style="font-weight:bold;font-size:29.33333397px">Seconds</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1019-0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:16.66666603px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0,-0.26458333,0.26458333,0,-456.72317,464.02503)"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><flowRegion
+         id="flowRegion1021-2"><rect
+           id="rect1023-3"
+           width="348.57141"
+           height="47.85709"
+           x="298.57144"
+           y="1695.3768" /></flowRegion><flowPara
+         id="flowPara1025-7"
+         style="font-weight:bold;font-size:29.33333397px">Injectivity (t/h/MPa)</flowPara></flowRoot>    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect1114"
+       width="86.367554"
+       height="14.363094"
+       x="61.610119"
+       y="243.13838" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1019-5"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:16.66666603px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,-14.19018,-199.00914)"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><flowRegion
+         id="flowRegion1021-9"><rect
+           id="rect1023-2"
+           width="328.57141"
+           height="43.571377"
+           x="298.57144"
+           y="1695.3768" /></flowRegion><flowPara
+         id="flowPara1025-2"
+         style="font-weight:bold;font-size:29.33333397px">NM08 Stimulation</flowPara></flowRoot>  </g>
+</svg>

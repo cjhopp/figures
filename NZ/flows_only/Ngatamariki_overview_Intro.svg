@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="254mm"
+   height="356.44403mm"
+   viewBox="0 0 254 356.44403"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (unknown)"
+   sodipodi:docname="Ngatamariki_overview_Intro.svg"
+   inkscape:export-filename="/home/chet/figures/NZ/flows_only/Ngatamariki_overview_Intro.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <defs
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath985">
+      <rect
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="rect987"
+         width="253.43303"
+         height="156.55774"
+         x="-18.709818"
+         y="-7.3464284" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="286.67816"
+     inkscape:cy="726.81379"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="3710"
+     inkscape:window-height="2112"
+     inkscape:window-x="130"
+     inkscape:window-y="48"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(21.45015,11.592255)">
+    <image
+       sodipodi:absref="/home/chet/figures/NZ/flows_only/NgaN_ALL_flows_WHP.png"
+       xlink:href="NgaN_ALL_flows_WHP.png"
+       transform="translate(-2.4568462)"
+       clip-path="url(#clipPath985)"
+       width="254"
+       height="177.8"
+       preserveAspectRatio="none"
+       id="image915"
+       x="-18.709818"
+       y="-7.3464284" />
+    <image
+       sodipodi:absref="/home/chet/figures/NZ/flows_only/NgaS_ALL_flows_WHP.png"
+       xlink:href="NgaS_ALL_flows_WHP.png"
+       width="254"
+       height="177.8"
+       preserveAspectRatio="none"
+       id="image980"
+       x="-21.45015"
+       y="167.05177" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot989"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:16.66666603px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,211.26174,-25.324405)"><flowRegion
+         id="flowRegion991"><rect
+           id="rect993"
+           width="400"
+           height="98.571434"
+           x="-581.42859"
+           y="58.233971" /></flowRegion><flowPara
+         id="flowPara995"
+         style="font-weight:bold;font-size:29.33333397px">Northern Ngatamariki</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,210.94531,149.26924)"
+       xml:space="preserve"
+       id="flowRoot989-3"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:16.66666603px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:transform-center-x="24.568452"
+       inkscape:transform-center-y="-29.293155"><flowRegion
+         id="flowRegion991-6"><rect
+           id="rect993-7"
+           width="400"
+           height="98.571434"
+           x="-581.42859"
+           y="58.233971" /></flowRegion><flowPara
+         id="flowPara995-5"
+         style="font-weight:bold;font-size:29.33333397px">Southern Ngatamariki</flowPara></flowRoot>    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 4.6302069,296.37634 v -1.22844 l 18.3318441,-0.0945 0.04725,1.37015"
+       id="path1021"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 5.2916655,32.643448 1.0394341,-0.850445 9.1659234,12.378719 -1.086682,0.944941"
+       id="path1023"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 34.159596,126.1453 -0.04724,-1.74813 h 6.898066 l 4e-6,1.5119"
+       id="path1025"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#827979;stroke-width:0.66500002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.66, 2.66;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 48.624718,321.62915 0.09449,-112.92037"
+       id="path1027"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#827979;stroke-width:0.66500002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.66, 2.66;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 48.624718,146.46684 48.719208,33.546463"
+       id="path1027-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1044"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:16.66666603px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,112.71915,10.457481)"><flowRegion
+         id="flowRegion1046"><rect
+           id="rect1048"
+           width="91.418808"
+           height="47.477169"
+           x="-381.83768"
+           y="37.022213" /></flowRegion><flowPara
+         id="flowPara1050"
+         style="text-anchor:middle;text-align:center">NM08 Stimulation</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1044-5"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:16.66666603px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,117.83832,101.97849)"><flowRegion
+         id="flowRegion1046-6"><rect
+           id="rect1048-2"
+           width="86.873123"
+           height="40.911175"
+           x="-381.83768"
+           y="37.022213" /></flowRegion><flowPara
+         id="flowPara1050-9"
+         style="text-align:center;text-anchor:middle">NM09 Stimulation</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1044-5-1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:16.66666603px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,108.48264,267.1831)"><flowRegion
+         id="flowRegion1046-6-2"><rect
+           id="rect1048-2-7"
+           width="86.873123"
+           height="40.911175"
+           x="-381.83768"
+           y="37.022213" /></flowRegion><flowPara
+         id="flowPara1050-9-0"
+         style="text-align:center;text-anchor:middle">NM10 Stimulation</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1044-9"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:16.66666603px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,146.90247,23.967834)"><flowRegion
+         id="flowRegion1046-3"><rect
+           id="rect1048-6"
+           width="91.418793"
+           height="41.416252"
+           x="-381.83768"
+           y="37.022213" /></flowRegion><flowPara
+         id="flowPara1050-0"
+         style="text-align:center;text-anchor:middle">Plant Startup</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1044-9-6"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:16.66666603px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,137.75331,187.98881)"><flowRegion
+         id="flowRegion1046-3-2"><rect
+           id="rect1048-6-6"
+           width="91.418793"
+           height="41.416252"
+           x="-381.83768"
+           y="37.022213" /></flowRegion><flowPara
+         id="flowPara1050-0-1"
+         style="text-align:center;text-anchor:middle">Plant Startup</flowPara></flowRoot>    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 10.677825,37.557139 10.772323,-8.12649"
+       id="path1148"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 37.60863,124.39717 -8.787947,-3.77976"
+       id="path1150"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 13.701635,294.95891 4.157739,-8.22097"
+       id="path1152"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

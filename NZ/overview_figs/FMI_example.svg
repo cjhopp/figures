@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg869"
+   width="1167.3219"
+   height="1617.5577"
+   viewBox="0 0 1167.3219 1617.5577"
+   sodipodi:docname="FMI_example.svg"
+   inkscape:version="0.92.3 (unknown)"
+   inkscape:export-filename="/home/chet/figures/NZ/overview_figs/FMI_example_mod.png"
+   inkscape:export-xdpi="200"
+   inkscape:export-ydpi="200">
+  <metadata
+     id="metadata875">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs873">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1011-3">
+      <rect
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.03283775;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="rect1013-6"
+         width="328.61508"
+         height="903"
+         x="0"
+         y="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1037-5">
+      <rect
+         y="0.46739128"
+         x="637.98914"
+         height="903"
+         width="498.61963"
+         id="rect1039-3"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.27225173;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="3710"
+     inkscape:window-height="2112"
+     id="namedview871"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.0697674"
+     inkscape:cx="625.30574"
+     inkscape:cy="897.8761"
+     inkscape:window-x="130"
+     inkscape:window-y="48"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg869"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="535.57553,1400.7562"
+       orientation="1,0"
+       id="guide1063"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="450.96867,1368.3677"
+       orientation="1,0"
+       id="guide1065"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <rect
+     style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.00629878;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+     id="rect887"
+     width="1158.05"
+     height="952.48193"
+     x="8.7687588"
+     y="366.84958" />
+  <flowRoot
+     xml:space="preserve"
+     id="flowRoot889"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:16.66666603px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     transform="translate(922.25533,1126.2391)"><flowRegion
+       id="flowRegion891"><rect
+         id="rect893"
+         width="146.74005"
+         height="30.405584"
+         x="-311.32681"
+         y="165.33391" /></flowRegion><flowPara
+       id="flowPara895"
+       style="font-weight:bold;font-size:24px">Depth (m)</flowPara></flowRoot>  <image
+     sodipodi:absref="/home/chet/figures/NZ/overview_figs/FMI_example_key.png"
+     xlink:href="FMI_example_key.png"
+     y="0"
+     x="19.036247"
+     id="image1006"
+     preserveAspectRatio="none"
+     height="366.84958"
+     width="1147.7826" />
+  <image
+     sodipodi:absref="/home/chet/figures/NZ/overview_figs/FMI_example.png"
+     xlink:href="FMI_example.png"
+     clip-path="url(#clipPath1011-3)"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1333.33337402;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     y="0"
+     x="0"
+     id="image877-7"
+     preserveAspectRatio="none"
+     height="903"
+     width="1131"
+     transform="matrix(1.372331,0,0,1.372331,0,375.35673)" />
+  <image
+     sodipodi:absref="/home/chet/figures/NZ/overview_figs/FMI_example.png"
+     xlink:href="FMI_example.png"
+     clip-path="url(#clipPath1037-5)"
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1333.33337402;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     y="0"
+     x="0"
+     id="image877-5"
+     preserveAspectRatio="none"
+     height="903"
+     width="1131"
+     transform="matrix(1.377815,0,0,1.377815,-399.33344,373.39077)" />
+</svg>

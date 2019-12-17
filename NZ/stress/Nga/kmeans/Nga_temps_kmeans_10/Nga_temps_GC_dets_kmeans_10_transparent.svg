@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg16089"
+   width="652.02692"
+   height="521.55243"
+   viewBox="0 0 652.02692 521.55242"
+   sodipodi:docname="Nga_temps_GC_dets_kmeans_10_transparent.svg"
+   inkscape:version="0.92.4 (unknown)"
+   inkscape:export-filename="/home/chet/figures/NZ/stress/Nga/kmeans/Nga_temps_kmeans_10/Nga_temps_GC_dets_kmeans_10_transparent_colored.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <metadata
+     id="metadata16095">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs16093">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath16644-9">
+      <rect
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="rect16646-2"
+         width="181.24138"
+         height="214.93596"
+         x="314.60098"
+         y="41.142857"
+         ry="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath16670-6">
+      <rect
+         ry="0"
+         y="38.30542"
+         x="683.82263"
+         height="214.93596"
+         width="181.24138"
+         id="rect16672-4"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath16696-5">
+      <rect
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="rect16698-0"
+         width="181.24138"
+         height="214.93596"
+         x="128.39407"
+         y="37.950737"
+         ry="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath16733-8">
+      <rect
+         ry="0"
+         y="40.433495"
+         x="496.9064"
+         height="214.93596"
+         width="181.24138"
+         id="rect16735-7"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath16759-7">
+      <rect
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="rect16761-2"
+         width="181.24138"
+         height="214.93596"
+         x="867.54681"
+         y="37.950737"
+         ry="0" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="3710"
+     inkscape:window-height="2112"
+     id="namedview16091"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="1.9936483"
+     inkscape:cx="311.55914"
+     inkscape:cy="207.72769"
+     inkscape:window-x="130"
+     inkscape:window-y="48"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg16089"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <sodipodi:guide
+       position="337.51609,476.99207"
+       orientation="0,1"
+       id="guide16785"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="195.51007,111.91851"
+       orientation="0,1"
+       id="guide16787"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="322.96989,444.08676"
+       orientation="1,0"
+       id="guide16821"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <g
+     id="g17307"
+     transform="translate(21.958896,4.8511966)"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300">
+    <rect
+       ry="37.117882"
+       y="39.70919"
+       x="77.74691"
+       height="219.19614"
+       width="209.72107"
+       id="rect16955"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ff7f0e;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+    <image
+       sodipodi:absref="/home/chet/figures/NZ/stress/Nga/kmeans/Nga_temps_kmeans_10/Nga_temps_GC_dets_kmeans_10_transparent.png"
+       xlink:href="Nga_temps_GC_dets_kmeans_10_transparent.png"
+       transform="translate(-222.61423,0.69642352)"
+       width="1152"
+       height="288"
+       preserveAspectRatio="none"
+       id="image16097-6"
+       x="0"
+       y="0"
+       clip-path="url(#clipPath16644-9)" />
+  </g>
+  <g
+     id="g17311"
+     transform="translate(50.048104,6.0191185)"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300">
+    <rect
+       ry="37.117882"
+       y="38.541271"
+       x="287.46799"
+       height="219.19614"
+       width="209.72107"
+       id="rect16955-0"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#d62728;fill-opacity:0.86029412;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+    <image
+       sodipodi:absref="/home/chet/figures/NZ/stress/Nga/kmeans/Nga_temps_kmeans_10/Nga_temps_GC_dets_kmeans_10_transparent.png"
+       xlink:href="Nga_temps_GC_dets_kmeans_10_transparent.png"
+       transform="translate(-382.1148,2.3659419)"
+       width="1152"
+       height="288"
+       preserveAspectRatio="none"
+       id="image16097-9"
+       x="0"
+       y="0"
+       clip-path="url(#clipPath16670-6)" />
+  </g>
+  <rect
+     style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#1f77b4;fill-opacity:0.81862745;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+     id="rect16955-1"
+     width="209.72107"
+     height="219.19614"
+     x="222.18814"
+     y="301.61487"
+     ry="37.117882" />
+  <image
+     sodipodi:absref="/home/chet/figures/NZ/stress/Nga/kmeans/Nga_temps_kmeans_10/Nga_temps_GC_dets_kmeans_10_transparent.png"
+     xlink:href="Nga_temps_GC_dets_kmeans_10_transparent.png"
+     clip-path="url(#clipPath16696-5)"
+     y="0"
+     x="0"
+     id="image16097-4"
+     preserveAspectRatio="none"
+     height="288"
+     width="1152"
+     transform="translate(106.82133,266.74177)" />
+  <rect
+     style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2ca02c;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+     id="rect16955-6"
+     width="209.72107"
+     height="219.19614"
+     x="0.5"
+     y="301.61487"
+     ry="37.117882"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300" />
+  <image
+     sodipodi:absref="/home/chet/figures/NZ/stress/Nga/kmeans/Nga_temps_kmeans_10/Nga_temps_GC_dets_kmeans_10_transparent.png"
+     xlink:href="Nga_temps_GC_dets_kmeans_10_transparent.png"
+     inkscape:export-ydpi="300"
+     inkscape:export-xdpi="300"
+     clip-path="url(#clipPath16733-8)"
+     y="0"
+     x="0"
+     id="image16097-1"
+     preserveAspectRatio="none"
+     height="288"
+     width="1152"
+     transform="translate(-483.2306,264.25902)" />
+  <rect
+     style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#9467bd;fill-opacity:0.83333331;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+     id="rect16955-5"
+     width="209.72107"
+     height="219.19614"
+     x="441.80585"
+     y="301.61487"
+     ry="37.117882"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300" />
+  <image
+     sodipodi:absref="/home/chet/figures/NZ/stress/Nga/kmeans/Nga_temps_kmeans_10/Nga_temps_GC_dets_kmeans_10_transparent.png"
+     xlink:href="Nga_temps_GC_dets_kmeans_10_transparent.png"
+     clip-path="url(#clipPath16759-7)"
+     y="0"
+     x="0"
+     id="image16097-7"
+     preserveAspectRatio="none"
+     height="288"
+     width="1152"
+     transform="translate(-411.50112,266.74177)" />
+  <flowRoot
+     xml:space="preserve"
+     id="flowRoot16789"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:16.66666603px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     transform="translate(-117.75019,310.20768)"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300"><flowRegion
+       id="flowRegion16791"><rect
+         id="rect16793"
+         width="147.54678"
+         height="39.72414"
+         x="367.0936"
+         y="-302.54187" /></flowRegion><flowPara
+       id="flowPara16795"
+       style="font-size:32px">Northern</flowPara></flowRoot>  <flowRoot
+     transform="translate(-122.8612,580.2955)"
+     xml:space="preserve"
+     id="flowRoot16789-2"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:16.66666603px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     inkscape:export-xdpi="300"
+     inkscape:export-ydpi="300"><flowRegion
+       id="flowRegion16791-2"><rect
+         id="rect16793-6"
+         width="147.54678"
+         height="39.72414"
+         x="367.0936"
+         y="-302.54187" /></flowRegion><flowPara
+       id="flowPara16795-1"
+       style="font-size:32px">Southern</flowPara></flowRoot></svg>

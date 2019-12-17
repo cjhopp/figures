@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="299.81479mm"
+   height="312.97943mm"
+   viewBox="0 0 299.81478 312.97943"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (unknown)"
+   sodipodi:docname="ALL_wells_to_tD.svg">
+  <defs
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath965-3">
+      <rect
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="rect967-6"
+         width="60.93745"
+         height="62.541065"
+         x="-13.76438"
+         y="68.618187" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath991-5">
+      <rect
+         y="67.950012"
+         x="47.97488"
+         height="62.541065"
+         width="60.93745"
+         id="rect993-3"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1017-6">
+      <rect
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="rect1019-2"
+         width="60.93745"
+         height="62.541065"
+         x="110.24868"
+         y="67.816376" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1043-1">
+      <rect
+         y="67.148201"
+         x="171.31976"
+         height="62.541065"
+         width="60.93745"
+         id="rect1045-2"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1069-9">
+      <rect
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="rect1071-3"
+         width="60.93745"
+         height="62.541065"
+         x="-13.764385"
+         y="153.47626" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1095-0">
+      <rect
+         y="152.80807"
+         x="48.242146"
+         height="62.541065"
+         width="60.93745"
+         id="rect1097-6"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1121-6">
+      <rect
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="rect1123-1"
+         width="60.93745"
+         height="62.541065"
+         x="109.31323"
+         y="151.87263" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1335-9">
+      <rect
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="rect1337-7"
+         width="71.626488"
+         height="70.303574"
+         x="258.27371"
+         y="-114.38563" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1361-6">
+      <rect
+         y="-115.33057"
+         x="342.7514"
+         height="70.303574"
+         width="71.626488"
+         id="rect1363-1"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1387-9">
+      <rect
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="rect1389-3"
+         width="71.626488"
+         height="70.303574"
+         x="425.15021"
+         y="-113.25169" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1477-9">
+      <rect
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="rect1479-4"
+         width="62.36607"
+         height="62.933037"
+         x="279.81836"
+         y="127.70812" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1503-8">
+      <rect
+         y="127.14116"
+         x="341.80646"
+         height="62.933037"
+         width="62.36607"
+         id="rect1505-4"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1529-0">
+      <rect
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="rect1531-3"
+         width="62.36607"
+         height="62.933037"
+         x="403.2276"
+         y="126.76318" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1555-1">
+      <rect
+         y="126.95217"
+         x="465.78265"
+         height="62.933037"
+         width="62.36607"
+         id="rect1557-0"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="441.78134"
+     inkscape:cy="591.54203"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="3840"
+     inkscape:window-height="2112"
+     inkscape:window-x="3840"
+     inkscape:window-y="48"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <sodipodi:guide
+       position="110.80332,255.6123"
+       orientation="0,1"
+       id="guide1179"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="96.8182,101.20902"
+       orientation="0,1"
+       id="guide1181"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="159.33943,32.892782"
+       orientation="0,1"
+       id="guide1183"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="58.264632,128.80129"
+       orientation="1,0"
+       id="guide1185"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="122.33159,101.20902"
+       orientation="1,0"
+       id="guide1187"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="140.09603,190.5818"
+       orientation="0,1"
+       id="guide1253"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="196.7199,292.89598"
+       orientation="1,0"
+       id="guide1581"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="263.71617,275.60357"
+       orientation="1,0"
+       id="guide1583"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="24.362756,168.63631"
+       orientation="1,0"
+       id="guide1585"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="8.8657327,179.21964"
+       orientation="1,0"
+       id="guide1587"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="127.36126,312.83423"
+       orientation="0,1"
+       id="guide1606"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="177.11285,297.89052"
+       orientation="0,1"
+       id="guide1718"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="228.96314,50.666207"
+       orientation="1,0"
+       id="guide2407"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-6.9362586,15.312073)">
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#d0d0d0;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.29152003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect1589-2"
+       width="143.48186"
+       height="312.6879"
+       x="22.164392"
+       y="-15.166313"
+       ry="13.147933" />
+    <image
+       sodipodi:absref="/home/chet/figures/NZ/fractures/ALL_wells_to_tD.png"
+       xlink:href="ALL_wells_to_tD.png"
+       inkscape:transform-center-y="78.401918"
+       inkscape:transform-center-x="-85.152372"
+       transform="translate(48.276192,162.48043)"
+       y="39.673809"
+       x="-45.999695"
+       id="image941-7"
+       preserveAspectRatio="none"
+       height="203.2"
+       width="304.79999"
+       clip-path="url(#clipPath965-3)" />
+    <image
+       sodipodi:absref="/home/chet/figures/NZ/fractures/ALL_wells_to_tD.png"
+       xlink:href="ALL_wells_to_tD.png"
+       transform="translate(50.614081,162.3373)"
+       y="39.673809"
+       x="-45.999695"
+       id="image941-5"
+       preserveAspectRatio="none"
+       height="203.2"
+       width="304.79999"
+       clip-path="url(#clipPath991-5)" />
+    <image
+       sodipodi:absref="/home/chet/figures/NZ/fractures/ALL_wells_to_tD.png"
+       xlink:href="ALL_wells_to_tD.png"
+       transform="translate(-74.642429,96.131127)"
+       y="39.673809"
+       x="-45.999695"
+       id="image941-9"
+       preserveAspectRatio="none"
+       height="203.2"
+       width="304.79999"
+       clip-path="url(#clipPath1017-6)" />
+    <image
+       sodipodi:absref="/home/chet/figures/NZ/fractures/ALL_wells_to_tD.png"
+       xlink:href="ALL_wells_to_tD.png"
+       transform="translate(-72.125237,95.936581)"
+       y="39.673809"
+       x="-45.999695"
+       id="image941-70"
+       preserveAspectRatio="none"
+       height="203.2"
+       width="304.79999"
+       clip-path="url(#clipPath1043-1)" />
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#d0d0d0;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.28512591;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect1589"
+       width="137.25685"
+       height="312.68768"
+       x="169.35164"
+       y="-15.166202"
+       ry="13.147923" />
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#b2dcdc;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect1720"
+       width="63.848431"
+       height="65.71254"
+       x="172.01123"
+       y="161.47891"
+       ry="8" />
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#909090;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.27517846;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect1640"
+       width="211.7039"
+       height="62.965847"
+       x="24.446505"
+       y="8.8940754"
+       ry="13.541865" />
+    <image
+       sodipodi:absref="/home/chet/figures/NZ/fractures/ALL_wells_to_tD.png"
+       xlink:href="ALL_wells_to_tD.png"
+       transform="translate(48.337484,-143.69468)"
+       y="39.673809"
+       x="-45.999695"
+       id="image941-6"
+       preserveAspectRatio="none"
+       height="203.2"
+       width="304.79999"
+       clip-path="url(#clipPath1069-9)" />
+    <image
+       sodipodi:absref="/home/chet/figures/NZ/fractures/ALL_wells_to_tD.png"
+       xlink:href="ALL_wells_to_tD.png"
+       transform="translate(50.5137,-143.62875)"
+       y="39.673809"
+       x="-45.999695"
+       id="image941-2"
+       preserveAspectRatio="none"
+       height="203.2"
+       width="304.79999"
+       clip-path="url(#clipPath1095-0)" />
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#909090;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.25312942;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect1640-5"
+       width="179.13699"
+       height="62.965847"
+       x="57.013412"
+       y="74.50576"
+       ry="13.541865" />
+    <image
+       sodipodi:absref="/home/chet/figures/NZ/fractures/ALL_wells_to_tD.png"
+       xlink:href="ALL_wells_to_tD.png"
+       transform="translate(-42.570338,-79.128824)"
+       y="39.673809"
+       x="-45.999695"
+       id="image941-8"
+       preserveAspectRatio="none"
+       height="203.2"
+       width="304.79999"
+       clip-path="url(#clipPath1121-6)" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1147"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:16.66666603px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0,-0.26458333,0.26458333,0,29.06564,141.52591)"><flowRegion
+         id="flowRegion1149"><rect
+           id="rect1151"
+           width="475.71429"
+           height="65.714287"
+           x="122.14286"
+           y="-68.90889" /></flowRegion><flowPara
+         id="flowPara1153"
+         style="font-size:42.66666794px">Ngatamariki</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0,-0.26458333,0.26458333,0,28.607804,291.03855)"
+       xml:space="preserve"
+       id="flowRoot1147-7"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:16.66666603px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+         id="flowRegion1149-9"><rect
+           id="rect1151-2"
+           width="475.71429"
+           height="65.714287"
+           x="122.14286"
+           y="-68.90889" /></flowRegion><flowPara
+         id="flowPara1153-0"
+         style="font-size:42.66666794px">Rotokawa</flowPara></flowRoot>    <g
+       id="g1686">
+      <rect
+         ry="3.473325"
+         y="26.165892"
+         x="25.279661"
+         height="33.213669"
+         width="8.1076679"
+         id="rect1657"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.32833236;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <flowRoot
+         transform="matrix(0,-0.26458333,0.26458333,0,-12.945065,-19.624824)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:16.66666603px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4c4c4c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="flowRoot1221"
+         xml:space="preserve"><flowRegion
+           style="fill:#4c4c4c;fill-opacity:1"
+           id="flowRegion1223"><rect
+             style="fill:#4c4c4c;fill-opacity:1"
+             y="154.34392"
+             x="-289.40869"
+             height="32.512466"
+             width="116.16754"
+             id="rect1225" /></flowRegion><flowPara
+           style="font-size:24px;fill:#4c4c4c;fill-opacity:1"
+           id="flowPara1227">Northern</flowPara></flowRoot>    </g>
+    <g
+       id="g1679"
+       transform="translate(0,1.5875)">
+      <rect
+         ry="3.4725769"
+         y="88.478821"
+         x="58.655968"
+         height="33.206516"
+         width="8.1081429"
+         id="rect1657-4"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.32830662;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:16.66666603px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4c4c4c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="flowRoot1221-9"
+         xml:space="preserve"
+         transform="matrix(0,-0.26458333,0.26458333,0,20.199764,43.142895)"><flowRegion
+           style="fill:#4c4c4c;fill-opacity:1"
+           id="flowRegion1223-2"><rect
+             style="fill:#4c4c4c;fill-opacity:1"
+             y="154.34392"
+             x="-289.40869"
+             height="32.512466"
+             width="116.16754"
+             id="rect1225-2" /></flowRegion><flowPara
+           style="font-size:24px;fill:#4c4c4c;fill-opacity:1"
+           id="flowPara1227-8">Southern</flowPara></flowRoot>    </g>
+    <image
+       sodipodi:absref="/home/chet/figures/NZ/fractures/Nga_ALL_shmax45.5_nu0.28_compartments.png"
+       xlink:href="Nga_ALL_shmax45.5_nu0.28_compartments.png"
+       transform="matrix(0.87956288,0,0,0.87956288,-55.074871,110.7473)"
+       y="-117.52283"
+       x="222.10141"
+       id="image1330-3"
+       preserveAspectRatio="none"
+       height="76.199997"
+       width="304.79999"
+       clip-path="url(#clipPath1335-9)" />
+    <image
+       sodipodi:absref="/home/chet/figures/NZ/fractures/Nga_ALL_shmax45.5_nu0.28_compartments.png"
+       xlink:href="Nga_ALL_shmax45.5_nu0.28_compartments.png"
+       transform="matrix(0.87956288,0,0,0.87956288,-128.31997,175.53153)"
+       y="-117.52283"
+       x="222.10141"
+       id="image1330-2"
+       preserveAspectRatio="none"
+       height="76.199997"
+       width="304.79999"
+       clip-path="url(#clipPath1361-6)" />
+    <image
+       sodipodi:absref="/home/chet/figures/NZ/fractures/Nga_ALL_shmax45.5_nu0.28_compartments.png"
+       xlink:href="Nga_ALL_shmax45.5_nu0.28_compartments.png"
+       inkscape:transform-center-y="-108.71241"
+       inkscape:transform-center-x="-13.215045"
+       transform="matrix(0.87956288,0,0,0.87956288,-134.59034,144.84205)"
+       y="-117.52283"
+       x="222.10141"
+       id="image1330-1"
+       preserveAspectRatio="none"
+       height="76.199997"
+       width="304.79999"
+       clip-path="url(#clipPath1387-9)" />
+    <image
+       sodipodi:absref="/home/chet/figures/NZ/fractures/Rot_ALL_shmax30_nu0.8_compartments.png"
+       xlink:href="Rot_ALL_shmax30_nu0.8_compartments.png"
+       inkscape:transform-center-y="-45.039533"
+       inkscape:transform-center-x="-188.42114"
+       transform="translate(-107.38308,36.947172)"
+       y="120.25832"
+       x="248.37076"
+       id="image1472-7"
+       preserveAspectRatio="none"
+       height="76.199997"
+       width="304.79999"
+       clip-path="url(#clipPath1477-9)" />
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffb2ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect1720-7-6"
+       width="63.848431"
+       height="65.71254"
+       x="172.54039"
+       y="228.64671"
+       ry="8"
+       inkscape:transform-center-x="17.372519"
+       inkscape:transform-center-y="-4.8108517" />
+    <image
+       sodipodi:absref="/home/chet/figures/NZ/fractures/Rot_ALL_shmax30_nu0.8_compartments.png"
+       xlink:href="Rot_ALL_shmax30_nu0.8_compartments.png"
+       inkscape:transform-center-y="-25.006796"
+       inkscape:transform-center-x="-52.160723"
+       transform="translate(-169.37117,104.81423)"
+       y="120.25832"
+       x="248.37076"
+       id="image1472-5"
+       preserveAspectRatio="none"
+       height="76.199997"
+       width="304.79999"
+       clip-path="url(#clipPath1503-8)" />
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffd8ca;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect1720-7"
+       width="63.848431"
+       height="65.71254"
+       x="238.87521"
+       y="161.47891"
+       ry="8"
+       inkscape:transform-center-x="17.372519"
+       inkscape:transform-center-y="-4.8108517" />
+    <image
+       sodipodi:absref="/home/chet/figures/NZ/fractures/Rot_ALL_shmax30_nu0.8_compartments.png"
+       xlink:href="Rot_ALL_shmax30_nu0.8_compartments.png"
+       transform="translate(-163.92833,37.098361)"
+       y="120.25832"
+       x="248.37076"
+       id="image1472-6"
+       preserveAspectRatio="none"
+       height="76.199997"
+       width="304.79999"
+       clip-path="url(#clipPath1529-0)" />
+    <image
+       sodipodi:absref="/home/chet/figures/NZ/fractures/Rot_ALL_shmax30_nu0.8_compartments.png"
+       xlink:href="Rot_ALL_shmax30_nu0.8_compartments.png"
+       transform="translate(-225.13755,104.74696)"
+       y="120.25832"
+       x="248.37076"
+       id="image1472-63"
+       preserveAspectRatio="none"
+       height="76.199997"
+       width="304.79999"
+       clip-path="url(#clipPath1555-1)" />
+    <g
+       id="g1709">
+      <rect
+         ry="3.0238171"
+         y="-9.0430698"
+         x="68.375893"
+         height="12.561667"
+         width="58.445309"
+         id="rect1688"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <flowRoot
+         transform="matrix(0.26458333,0,0,0.26458333,52.994848,-0.76945906)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:16.66666603px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="flowRoot1608"
+         xml:space="preserve"><flowRegion
+           id="flowRegion1610"><rect
+             y="-14.415442"
+             x="74.285713"
+             height="49.285713"
+             width="334.28571"
+             id="rect1612" /></flowRegion><flowPara
+           style="font-size:32px"
+           id="flowPara1614">Image Logs</flowPara></flowRoot>    </g>
+    <g
+       id="g1716"
+       transform="translate(0,-0.52916667)">
+      <rect
+         ry="3.0238171"
+         y="-9.1767044"
+         x="195.80898"
+         height="12.962572"
+         width="82.185379"
+         id="rect1690"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+      <flowRoot
+         transform="matrix(0.26458333,0,0,0.26458333,178.88587,-0.32213392)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:16.66666603px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="flowRoot1608-0"
+         xml:space="preserve"><flowRegion
+           id="flowRegion1610-6"><rect
+             y="-14.415442"
+             x="74.285713"
+             height="49.285713"
+             width="334.28571"
+             id="rect1612-1" /></flowRegion><flowPara
+           style="font-size:32px"
+           id="flowPara1614-5">Focal Mechanisms</flowPara></flowRoot>    </g>
+  </g>
+</svg>

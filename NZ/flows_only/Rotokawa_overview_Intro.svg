@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="254mm"
+   height="360.55173mm"
+   viewBox="0 0 254 360.55173"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (unknown)"
+   sodipodi:docname="Rotokawa_overview_Intro.svg"
+   inkscape:export-filename="/home/chet/figures/NZ/flows_only/Rotokawa_overview_Intro.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1251"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1249"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path988"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath985">
+      <rect
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="rect987"
+         width="253.43303"
+         height="156.55774"
+         x="-18.709818"
+         y="-7.3464284" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath981">
+      <rect
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="rect983"
+         width="252.3494"
+         height="159.86006"
+         x="-20.695312"
+         y="-2.765126" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="505.2191"
+     inkscape:cy="764.85309"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="3710"
+     inkscape:window-height="2112"
+     inkscape:window-x="130"
+     inkscape:window-y="48"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(21.45015,7.7168466)">
+    <image
+       sodipodi:absref="/home/chet/figures/NZ/flows_only/Rot_ALL_WHP.png"
+       xlink:href="Rot_ALL_WHP.png"
+       width="254"
+       height="177.8"
+       preserveAspectRatio="none"
+       id="image957"
+       x="-21.45015"
+       y="175.03488" />
+    <image
+       sodipodi:absref="/home/chet/figures/NZ/flows_only/Rot_ALL_Flow.png"
+       xlink:href="Rot_ALL_Flow.png"
+       transform="translate(0.07046462)"
+       clip-path="url(#clipPath981)"
+       width="254"
+       height="177.8"
+       preserveAspectRatio="none"
+       id="image968"
+       x="-20.695312"
+       y="-2.7651262" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot989"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:16.66666603px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,212.27736,-21.448997)"><flowRegion
+         id="flowRegion991"><rect
+           id="rect993"
+           width="366.15988"
+           height="30.891212"
+           x="-581.42859"
+           y="58.233971" /></flowRegion><flowPara
+         id="flowPara995"
+         style="font-weight:bold;font-size:29.33333397px">Rotokawa Flow Rates</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,193.04132,155.14917)"
+       xml:space="preserve"
+       id="flowRoot989-3"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:16.66666603px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:transform-center-x="24.568452"
+       inkscape:transform-center-y="-29.293155"><flowRegion
+         id="flowRegion991-6"><rect
+           id="rect993-7"
+           width="514.14722"
+           height="41.497814"
+           x="-581.42859"
+           y="58.233971" /></flowRegion><flowPara
+         id="flowPara995-5"
+         style="font-weight:bold;font-size:29.33333397px">Rotokawa Wellhead Pressures</flowPara></flowRoot>    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1251)"
+       d="m 30.555347,42.400112 v -1.559169 l 74.792543,-0.07215"
+       id="path1021"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#827979;stroke-width:0.71975881;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.87903509, 2.87903509;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 120.25305,154.18562 0.0943,-132.566344"
+       id="path1027"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1044-5-1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:16.66666603px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,137.15944,25.170542)"><flowRegion
+         id="flowRegion1046-6-2"><rect
+           id="rect1048-2-7"
+           width="233.03363"
+           height="20.503237"
+           x="-381.83768"
+           y="37.022213" /></flowRegion><flowPara
+         id="flowPara1050-9-0"
+         style="font-size:18.66666603px;text-align:center;text-anchor:middle">RK24 Injectivity Decline</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1044-9-6"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:16.66666603px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,219.40414,7.0473381)"><flowRegion
+         id="flowRegion1046-3-2"><rect
+           id="rect1048-6-6"
+           width="156.02394"
+           height="38.003265"
+           x="-381.83768"
+           y="37.022213" /></flowRegion><flowPara
+         id="flowPara1050-0-1"
+         style="text-align:center;text-anchor:middle;font-size:18.66666691px">Injection Switch: RK24-RK23</flowPara></flowRoot>  </g>
+</svg>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg906"
+   width="519.82056"
+   height="706.94562"
+   viewBox="0 0 519.82055 706.94562"
+   sodipodi:docname="Merc_ALL_FMC.svg"
+   inkscape:version="0.92.4 (unknown)"
+   inkscape:export-filename="/home/chet/figures/NZ/sources/arnold_townend/FMC/Merc_ALL_FMC_crop.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <metadata
+     id="metadata912">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs910">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath918-3">
+      <rect
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="rect920-6"
+         width="426.57736"
+         height="335.79916"
+         x="177.94142"
+         y="70.694557"
+         ry="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath944-5">
+      <rect
+         ry="0"
+         y="407.29706"
+         x="175.53137"
+         height="335.79916"
+         width="426.57736"
+         id="rect946-3"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath970-6">
+      <rect
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.51415128;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         id="rect972-2"
+         width="89.255676"
+         height="424.25153"
+         x="555.27173"
+         y="48.359566"
+         ry="0" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="3710"
+     inkscape:window-height="2112"
+     id="namedview908"
+     showgrid="false"
+     inkscape:zoom="1.7604013"
+     inkscape:cx="149.88641"
+     inkscape:cy="353.39324"
+     inkscape:window-x="130"
+     inkscape:window-y="48"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg906"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <g
+     id="g998"
+     transform="translate(-697.90797,4.8200838)">
+    <image
+       sodipodi:absref="/home/chet/figures/NZ/sources/arnold_townend/FMC/Merc_ALL_FMC.png"
+       xlink:href="Merc_ALL_FMC.png"
+       transform="translate(519.96655,-75.514641)"
+       width="768"
+       height="768"
+       preserveAspectRatio="none"
+       id="image914-7"
+       x="0"
+       y="0"
+       clip-path="url(#clipPath918-3)" />
+    <image
+       sodipodi:absref="/home/chet/figures/NZ/sources/arnold_townend/FMC/Merc_ALL_FMC.png"
+       xlink:href="Merc_ALL_FMC.png"
+       transform="translate(522.3766,-40.970699)"
+       width="768"
+       height="768"
+       preserveAspectRatio="none"
+       id="image914-5"
+       x="0"
+       y="0"
+       clip-path="url(#clipPath944-5)" />
+  </g>
+  <image
+     sodipodi:absref="/home/chet/figures/NZ/sources/arnold_townend/FMC/Merc_ALL_FMC.png"
+     xlink:href="Merc_ALL_FMC.png"
+     transform="translate(-124.70683,90.147213)"
+     clip-path="url(#clipPath970-6)"
+     y="-93.188286"
+     x="-45.790794"
+     id="image914-9"
+     preserveAspectRatio="none"
+     height="768"
+     width="768" />
+</svg>
